@@ -24,7 +24,7 @@ To run this project...<br>
 </ol>
 <br>
 The project can also be manipulated manually. Typing <code>make</code> shall compile the project if a quick solution is desired. Instructions for the command line are
-supplied upon initial error, though is also detailed here...
+supplied upon initial error, though is also detailed here...<br>
 ---
 <code>./page_manager_sim.exe -f {page_replacement_data_file.txt} -m {replacement_policy} -s {size of memory}</code>
 <br> replacement_policy = ( 'FIFO' , 'LRU' , 'SC' , or 'ESC')
