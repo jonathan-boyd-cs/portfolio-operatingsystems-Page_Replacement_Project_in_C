@@ -24,11 +24,10 @@ To run this project...<br>
 </ol>
 <br>
 The project can also be manipulated manually. Typing <code>make</code> shall compile the project if a quick solution is desired. Instructions for the command line are
-supplied upon initial error, though is also detailed here...<br>
----
+supplied upon initial error, though is also detailed here...<br><br>
 <code>./page_manager_sim.exe -f {page_replacement_data_file.txt} -m {replacement_policy} -s {size of memory}</code>
 <br> replacement_policy = ( 'FIFO' , 'LRU' , 'SC' , or 'ESC')
----
+<br><br>
 A new data file may be generated as a the programmer desires, simply following the sytax guide of...<br>
 {page_number} {w or r} <- on each line of the text file separated by one space.
 <br>
