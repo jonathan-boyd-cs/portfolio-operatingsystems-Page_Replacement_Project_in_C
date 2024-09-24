@@ -1,0 +1,134 @@
+Page Manager Simulation Results
+
+	FIFO
+faults: 7959 in 8982 requests
+fault rate: 88.61%
+test parameter -> frame capacity: 10
+
+
+	FIFO
+faults: 6516 in 8982 requests
+fault rate: 72.55%
+test parameter -> frame capacity: 25
+
+
+	FIFO
+faults: 4243 in 8982 requests
+fault rate: 47.24%
+test parameter -> frame capacity: 50
+
+
+	FIFO
+faults: 508 in 8982 requests
+fault rate: 5.66%
+test parameter -> frame capacity: 100
+
+
+	FIFO
+faults: 108 in 8982 requests
+fault rate: 1.20%
+test parameter -> frame capacity: 200
+
+
+	LRU
+faults: 7982 in 8982 requests
+fault rate: 88.87%
+test parameter -> frame capacity: 10
+
+
+	LRU
+faults: 6474 in 8982 requests
+fault rate: 72.08%
+test parameter -> frame capacity: 25
+
+
+	LRU
+faults: 4256 in 8982 requests
+fault rate: 47.38%
+test parameter -> frame capacity: 50
+
+
+	LRU
+faults: 390 in 8982 requests
+fault rate: 4.34%
+test parameter -> frame capacity: 100
+
+
+	LRU
+faults: 108 in 8982 requests
+fault rate: 1.20%
+test parameter -> frame capacity: 200
+
+
+	Second Chance
+faults: 8020 in 8982 requests
+fault rate: 89.29%
+test parameter -> frame capacity: 10
+
+
+	Second Chance
+faults: 6617 in 8982 requests
+fault rate: 73.67%
+test parameter -> frame capacity: 25
+
+
+	Second Chance
+faults: 4435 in 8982 requests
+fault rate: 49.38%
+test parameter -> frame capacity: 50
+
+
+	Second Chance
+faults: 349 in 8982 requests
+fault rate: 3.89%
+test parameter -> frame capacity: 100
+
+
+	Second Chance
+faults: 108 in 8982 requests
+fault rate: 1.20%
+test parameter -> frame capacity: 200
+
+
+	Enhanced Second Chance
+faults: 7976 in 8982 requests
+fault rate: 88.80%
+test parameter -> frame capacity: 10
+
+disk writes on page_faults: 4103
+
+	Enhanced Second Chance
+faults: 6640 in 8982 requests
+fault rate: 73.93%
+test parameter -> frame capacity: 25
+
+disk writes on page_faults: 3443
+
+	Enhanced Second Chance
+faults: 6640 in 8982 requests
+fault rate: 73.93%
+test parameter -> frame capacity: 25
+
+disk writes on page_faults: 3443
+
+	Enhanced Second Chance
+faults: 4398 in 8982 requests
+fault rate: 48.96%
+test parameter -> frame capacity: 50
+
+disk writes on page_faults: 2244
+
+	Enhanced Second Chance
+faults: 320 in 8982 requests
+fault rate: 3.56%
+test parameter -> frame capacity: 100
+
+disk writes on page_faults: 168
+
+	Enhanced Second Chance
+faults: 108 in 8982 requests
+fault rate: 1.20%
+test parameter -> frame capacity: 200
+
+disk writes on page_faults: 51
+END SIMULATION
