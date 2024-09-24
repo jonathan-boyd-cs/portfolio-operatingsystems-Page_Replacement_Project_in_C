@@ -23,7 +23,7 @@ To run this project...<br>
     <li>View the results in the <code>sim_results.txt</code> file.</li>
 </ol>
 <br>
-The project can also be manipulated manually. Typing make shall compile the project if a quick solution is desired. Instructions for the command line are
+The project can also be manipulated manually. Typing <code>make</code> shall compile the project if a quick solution is desired. Instructions for the command line are
 supplied upon initial error, though is also detailed here...
 ---
 <code>./page_manager_sim.exe -f {page_replacement_data_file.txt} -m {replacement_policy} -s {size of memory}</code>
