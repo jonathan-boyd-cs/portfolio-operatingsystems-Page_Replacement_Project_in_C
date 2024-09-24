@@ -28,7 +28,7 @@ supplied upon initial error, though is also detailed here...<br><br>
 <code>./page_manager_sim.exe -f {page_replacement_data_file.txt} -m {replacement_policy} -s {size of memory}</code>
 <br> replacement_policy = ( 'FIFO' , 'LRU' , 'SC' , or 'ESC')
 <br><br>
-A new data file may be generated as a the programmer desires, simply following the sytax guide of...<br>
+A new data file may be generated as the curious programmer desires, simply following the per-line sytax guide of...<br>
 {page_number} {w or r} <- on each line of the text file separated by one space.
 <br>
 Enjoy... please report discovered errors.
